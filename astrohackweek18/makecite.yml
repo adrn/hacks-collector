@@ -1,0 +1,10 @@
+title: makecite: autogenerate latex citations for Python packages you use
+creators:
+    - Adrian Price-Whelan
+    - Alexandar Mechev
+    - Julia Melo Rodrigues de Aguiar 
+description: This Python package generates Bibtex and Latex citation information for all Python packages imported in a script or directory of scripts, specified by the user.
+source-url: http://github.com/adrn/makecite
+live-url: http://github.com/adrn/makecite
+doi: 
+images: 
